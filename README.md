@@ -38,8 +38,6 @@ This repository contains my attempt to pass the Kaggle Fellowship Skill Assessme
 3. **submissions**: Contains the CSV files of the predictions submitted to Kaggle.
     - Each submission file is named according to the approach used, e.g., `submission-1.csv`.
 
-### [Kaggle Fellowship](https://www.kaggle.com/kagglex) 
+#### [Kaggle Fellowship](https://www.kaggle.com/kagglex) 
 
-### Skill Assessment
-
-[Kaggle Fellowship Skill Assessment - Cohort 4](https://www.kaggle.com/competitions/kagglex-cohort4/overview) 
+#### [Kaggle Fellowship Skill Assessment - Cohort 4](https://www.kaggle.com/competitions/kagglex-cohort4/overview) 
