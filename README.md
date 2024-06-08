@@ -33,7 +33,7 @@ This repository contains my attempt to pass the Kaggle Fellowship Skill Assessme
     - `approach-2.py`: XG Boost
     - `approach-3.py`: Decision Tree
     - `approach-4.py`: Random Forest 
-    - `approach-5.py`: FPOlynomial Regression
+    - `approach-5.py`: Polynomial Regression
 
 3. **submissions**: Contains the CSV files of the predictions submitted to Kaggle.
     - Each submission file is named according to the approach used, e.g., `submission-1.csv`.
